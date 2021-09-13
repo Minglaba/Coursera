@@ -1,0 +1,92 @@
+# Try your first Python output
+
+print('Hello, Python!')
+
+
+# Check the Python Version
+
+import sys
+print(sys.version)
+
+
+# Print string as error message
+
+frint("Hello, Python!")
+
+
+# Try to see built-in error message
+
+print("Hello, Python!)
+
+
+# Print string and error to see the running order
+
+print("This will be printed")
+frint("This will cause an error")
+print("This will NOT be printed")
+
+
+# Write your code below. Don't forget to press Shift+Enter to execute the cell
+print("Hello, world!") # Print the traditional hello world, print should be lowercase!
+
+
+# Type of 12
+
+type(12)
+
+
+# Type of 2.14
+
+type(2.14)
+
+
+
+# System settings about float type
+
+sys.float_info
+
+# Type of "Hello, Python 101!"
+
+type("Hello, Python 101!")
+
+
+# Convert 2 to a float
+
+float(2)
+
+
+# Convert integer 2 to a float and check its type
+
+type(float(2))
+
+
+# Casting 1.1 to integer will result in loss of information
+
+int(1.1)
+
+
+# Convert a string into an integer
+
+int('1')
+
+
+
+# Convert an integer to a string
+
+str(1)
+
+
+
+# Convert a string into an integer with error
+
+int('1 or 2 people')
+
+
+# Convert an integer to a string
+
+str(1)
+
+
+
+total_hours = total_min / 60 # Total length of albums in hours 
+total_hours
